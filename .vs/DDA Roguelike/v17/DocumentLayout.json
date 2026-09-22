@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\assets\\scripts\\dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|d:\\onedrive - heroix\\projects\\dda roguelike\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\assets\\scripts\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\assets\\scripts\\enums\\performancedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enums\\performancedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\assets\\scripts\\datalogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\datalogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\assets\\scripts\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monstercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\assets\\scripts\\mapstate\\mapevolvedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECC39A4-0F3D-5457-3B5B-37D9455C5045}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapstate\\mapevolvedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DDA.cs",
+              "DocumentMoniker": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\DDA.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DDA.cs",
+              "ToolTip": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\DDA.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-03T23:08:50.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MonsterController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\MonsterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MonsterController.cs",
+              "ToolTip": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\MonsterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MonsterController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T08:21:29.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T09:24:12.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExitButton.cs",
+              "DocumentMoniker": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\ExitButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExitButton.cs",
+              "ToolTip": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\ExitButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExitButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T07:41:41.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataLogger.cs",
+              "DocumentMoniker": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\DataLogger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataLogger.cs",
+              "ToolTip": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\DataLogger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T08:35:36.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAABcBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T09:37:31.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PerformanceData.cs",
+              "DocumentMoniker": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\Enums\\PerformanceData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enums\\PerformanceData.cs",
+              "ToolTip": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\Enums\\PerformanceData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enums\\PerformanceData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T12:00:24.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapEvolvedState.cs",
+              "DocumentMoniker": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\MapState\\MapEvolvedState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapState\\MapEvolvedState.cs",
+              "ToolTip": "D:\\OneDrive - Heroix\\Projects\\DDA Roguelike\\Assets\\Scripts\\MapState\\MapEvolvedState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapState\\MapEvolvedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T16:09:11.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
